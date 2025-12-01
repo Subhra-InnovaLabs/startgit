@@ -1,5 +1,5 @@
 # startgit
 This is my starting github repo
-<b>
+<br>
 author : subhra
-</b>
+</br>
